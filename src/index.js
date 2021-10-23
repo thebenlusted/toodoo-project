@@ -3,6 +3,8 @@ import ReactDOM from 'react-dom';
 
 import './index.css';
 
+import TodoList from './TodoList';
+
 var dest = document.getElementById('app');
 
-ReactDOM.render(<h1>penus</h1>, dest);
+ReactDOM.render(<TodoList />, dest);
