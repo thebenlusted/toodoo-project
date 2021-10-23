@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/toodoo-project/static/css/main.a617e044.chunk.css",
+    "main.js": "/toodoo-project/static/js/main.2c561ea0.chunk.js",
+    "main.js.map": "/toodoo-project/static/js/main.2c561ea0.chunk.js.map",
+    "runtime-main.js": "/toodoo-project/static/js/runtime-main.f52aa74b.js",
+    "runtime-main.js.map": "/toodoo-project/static/js/runtime-main.f52aa74b.js.map",
+    "static/js/2.eb2b25fc.chunk.js": "/toodoo-project/static/js/2.eb2b25fc.chunk.js",
+    "static/js/2.eb2b25fc.chunk.js.map": "/toodoo-project/static/js/2.eb2b25fc.chunk.js.map",
+    "static/js/3.66d81c67.chunk.js": "/toodoo-project/static/js/3.66d81c67.chunk.js",
+    "static/js/3.66d81c67.chunk.js.map": "/toodoo-project/static/js/3.66d81c67.chunk.js.map",
+    "index.html": "/toodoo-project/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/toodoo-project/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.eb2b25fc.chunk.js.LICENSE.txt": "/toodoo-project/static/js/2.eb2b25fc.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/toodoo-project/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f52aa74b.js",
+    "static/js/2.eb2b25fc.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.2c561ea0.chunk.js"
+  ]
+}
