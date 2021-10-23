@@ -1,0 +1,2 @@
+(this["webpackJsonptoodoo-project"]=this["webpackJsonptoodoo-project"]||[]).push([[0],{4:function(o,e,t){"use strict";t.r(e);t(0);var n=t(2),c=t.n(n),p=(t(9),t(3)),s=document.getElementById("app");c.a.render(Object(p.jsx)("h1",{children:"penus"}),s)},9:function(o,e,t){}},[[4,1,2]]]);
+//# sourceMappingURL=main.b04f0e93.chunk.js.map
