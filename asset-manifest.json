@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/toodoo-project/static/css/main.b6c6ba6d.chunk.css",
-    "main.js": "/toodoo-project/static/js/main.4573acf6.chunk.js",
-    "main.js.map": "/toodoo-project/static/js/main.4573acf6.chunk.js.map",
+    "main.js": "/toodoo-project/static/js/main.ac5a504b.chunk.js",
+    "main.js.map": "/toodoo-project/static/js/main.ac5a504b.chunk.js.map",
     "runtime-main.js": "/toodoo-project/static/js/runtime-main.d421da5e.js",
     "runtime-main.js.map": "/toodoo-project/static/js/runtime-main.d421da5e.js.map",
     "static/js/2.0a160e28.chunk.js": "/toodoo-project/static/js/2.0a160e28.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.d421da5e.js",
     "static/js/2.0a160e28.chunk.js",
     "static/css/main.b6c6ba6d.chunk.css",
-    "static/js/main.4573acf6.chunk.js"
+    "static/js/main.ac5a504b.chunk.js"
   ]
 }
