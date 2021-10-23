@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/toodoo-project/static/css/main.31280579.chunk.css",
-    "main.js": "/toodoo-project/static/js/main.b04f0e93.chunk.js",
-    "main.js.map": "/toodoo-project/static/js/main.b04f0e93.chunk.js.map",
+    "main.css": "/toodoo-project/static/css/main.b6c6ba6d.chunk.css",
+    "main.js": "/toodoo-project/static/js/main.03883d3e.chunk.js",
+    "main.js.map": "/toodoo-project/static/js/main.03883d3e.chunk.js.map",
     "runtime-main.js": "/toodoo-project/static/js/runtime-main.d421da5e.js",
     "runtime-main.js.map": "/toodoo-project/static/js/runtime-main.d421da5e.js.map",
-    "static/js/2.f13a8be8.chunk.js": "/toodoo-project/static/js/2.f13a8be8.chunk.js",
-    "static/js/2.f13a8be8.chunk.js.map": "/toodoo-project/static/js/2.f13a8be8.chunk.js.map",
+    "static/js/2.a3e30a84.chunk.js": "/toodoo-project/static/js/2.a3e30a84.chunk.js",
+    "static/js/2.a3e30a84.chunk.js.map": "/toodoo-project/static/js/2.a3e30a84.chunk.js.map",
     "index.html": "/toodoo-project/index.html",
-    "static/css/main.31280579.chunk.css.map": "/toodoo-project/static/css/main.31280579.chunk.css.map",
-    "static/js/2.f13a8be8.chunk.js.LICENSE.txt": "/toodoo-project/static/js/2.f13a8be8.chunk.js.LICENSE.txt"
+    "static/css/main.b6c6ba6d.chunk.css.map": "/toodoo-project/static/css/main.b6c6ba6d.chunk.css.map",
+    "static/js/2.a3e30a84.chunk.js.LICENSE.txt": "/toodoo-project/static/js/2.a3e30a84.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.d421da5e.js",
-    "static/js/2.f13a8be8.chunk.js",
-    "static/css/main.31280579.chunk.css",
-    "static/js/main.b04f0e93.chunk.js"
+    "static/js/2.a3e30a84.chunk.js",
+    "static/css/main.b6c6ba6d.chunk.css",
+    "static/js/main.03883d3e.chunk.js"
   ]
 }
